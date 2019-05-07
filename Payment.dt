@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT23M20.4449875S" SolutionTotalViewTime="PT32M28.2605236S" SolutionTotalDebugTime="PT7M26.3807799S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>D:\Documents\Programování\2019\Payment</SolutionFolder>
+  <SolutionCreattionDate>2019-05-07T16:31:55.8814075+02:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:31:39.2326529+02:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT7M26.3797828S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-05-07T16:36:58.2853935+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M20.8310903S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment - Skelet\pb071-hw04\hw04\src\load.c</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-05-07T16:41:19.0411286+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M25.0557082S" EditActiveTime="PT14.1207261S">
+      <ModifiedDate>2019-05-07T16:39:32.3402282+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Load.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:37:38.2791063+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28M13.4443069S" EditActiveTime="PT23M2.5222613S">
+      <ModifiedDate>2019-05-07T17:54:11.3459691+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Main.c</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:32:26.099558+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.6761712S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Source.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:32:14.4193965+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.322561S" EditActiveTime="PT3.7910349S">
+      <ModifiedDate>2019-05-07T16:39:21.628417+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\TextOps.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:39:00.4670639+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT7M26.3797828S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-05-07T16:36:58.2853935+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M20.8310903S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment - Skelet\pb071-hw04\hw04\src\load.c</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-05-07T16:41:19.0411286+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M25.0557082S" EditActiveTime="PT14.1207261S">
+      <ModifiedDate>2019-05-07T16:39:32.3402282+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Load.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:37:38.2791063+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28M13.3859559S" EditActiveTime="PT23M2.5222613S">
+      <ModifiedDate>2019-05-07T17:54:11.3459691+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Main.c</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:32:26.099558+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.6761712S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Source.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:32:14.4193965+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.322561S" EditActiveTime="PT3.7910349S">
+      <ModifiedDate>2019-05-07T16:39:21.628417+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\TextOps.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:39:00.4670639+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M20.8310903S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment - Skelet\pb071-hw04\hw04\src\load.c</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-05-07T16:41:19.0411286+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.322561S" EditActiveTime="PT3.7910349S">
+      <ModifiedDate>2019-05-07T16:39:21.628417+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\TextOps.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:39:00.4670639+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M25.0557082S" EditActiveTime="PT14.1207261S">
+      <ModifiedDate>2019-05-07T16:39:32.3402282+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Load.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:37:38.2791063+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M26.3797828S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-05-07T16:36:58.2853935+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28M13.3859559S" EditActiveTime="PT23M2.5222613S">
+      <ModifiedDate>2019-05-07T17:54:11.3459691+02:00</ModifiedDate>
+      <ModifiedBy>jirik</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Main.c</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:32:26.099558+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.6761712S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Documents\Programování\2019\Payment\Payment\Source.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Documents\Programování\2019\Payment\Payment\Payment.vcxproj</ProjectName>
+      <CreatedDate>2019-05-07T16:32:14.4193965+02:00</CreatedDate>
+      <ViewedBy>jirik</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
